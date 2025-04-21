@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Lofi Radio - Relax & Chill</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <div class="header-overlay">
+      <a href="index.html"><img src="assets/images/logo.png" alt="Lofi Radio Logo" class="logo"></a>
+      <button id="loginBtn" class="btn-login">Entrar</button>
+      <button id="cadastroBtn" class="btn-cadastro">Cadastrar</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Entre no seu estado de flow 🎶</h1>
+      <p>Estude, trabalhe ou apenas relaxe ao som do melhor Lofi Beats</p>
+      <div class="player-wrapper">
+        <audio id="audioPlayer" controls autoplay loop>
+          <source src="https://stream.zeno.fm/7f4dzz7yuhhvv" type="audio/mpeg">
+          Seu navegador não suporta o player de áudio.
+        </audio>
+      </div>
+      <button id="enviarMusicaBtn" class="btn-enviar-musica">
+        <ion-icon name="musical-notes-outline"></ion-icon>
+        Enviar sua música
+      </button>
+    </section>
+
+    <section class="gallery">
+      <h2>Galeria</h2>
+      <div class="gallery-grid">
+        <div class="gallery-item">
+          <img src="assets/images/foto1.png" alt="Ambiente Lofi">
+        </div>
+        <div class="gallery-item">
+          <img src="assets/images/foto2.png" alt="Lofi Music">
+        </div>
+        <div class="gallery-item">
+          <img src="assets/images/foto3.png" alt="Relax">
+        </div>
+        <div id="musicaModal" class="modal">
+          <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>Enviar Música</h2>
+            <form id="formMusica">
+              <input type="text" placeholder="Seu nome" required>
+              <input type="email" placeholder="Seu e-mail" required>
+              <input type="text" placeholder="Nome da música" required>
+              <input type="text" placeholder="Artista" required>
+              <input type="url" placeholder="Link da música (YouTube, Spotify, etc)" required>
+              <textarea placeholder="Mensagem (opcional)"></textarea>
+              <button type="submit">Enviar</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p class="copyright">&copy; Feito com 💚 pela <a href="https://caiodjss.github.io/bratso/" target="_blank">Brátso</a></p>
+  </footer>
+
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
