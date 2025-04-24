@@ -6,10 +6,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <title>Lofi Radio - Relax & Chill</title>
-  <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Dancing+Script&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <title>Lofi Radio - Relax & Chill</title>
 </head>
 <body>
 
@@ -26,10 +25,14 @@
       <h1>Entre no seu estado de flow 🎶</h1>
       <p>Estude, trabalhe ou apenas relaxe ao som do melhor Lofi Beats</p>
       <div class="player-wrapper">
-       <audio id="audioPlayer" controls autoplay loop>
-          <source src="assets/kudasaibeats-lovelasts.mp3" type="audio/mpeg">
-          Seu navegador não suporta o player de áudio.
-       </audio>
+        <div class="player-controls">
+          <button id="prevBtn" class="btn-control">⏪</button>
+          <audio id="audioPlayer" controls autoplay></audio>
+          <button id="nextBtn" class="btn-control">⏩</button>
+        </div>
+        <div class="image-view">
+          <img id="songImage" src="assets/images/foto1.png" alt="Imagem da música" />
+        </div>
       </div>
       <button id="enviarMusicaBtn" class="btn-enviar-musica">
         <ion-icon name="musical-notes-outline"></ion-icon>
@@ -41,13 +44,13 @@
       <h2>Galeria</h2>
       <div class="gallery-grid">
         <div class="gallery-item">
-          <img src="assets/images/foto1.png" alt="Ambiente Lofi">
+          <img src="assets/images/foto11.png" alt="Ambiente Lofi">
         </div>
         <div class="gallery-item">
-          <img src="assets/images/foto2.png" alt="Lofi Music">
+          <img src="assets/images/foto22.png" alt="Lofi Music">
         </div>
         <div class="gallery-item">
-          <img src="assets/images/foto3.png" alt="Relax">
+          <img src="assets/images/foto33.png" alt="Relax">
         </div>
         <div id="musicaModal" class="modal">
           <div class="modal-content">
@@ -69,12 +72,14 @@
   </main>
 
   <footer>
-    <p class="copyright">&copy; Feito com 💚 pela <a href="https://caiodjss.github.io/bratso/" target="_blank">Brátso</a></p>
+    <p class="copyright">&copy; Feito com 💚 pela 
+      <a href="https://caiodjss.github.io/bratso/" target="_blank">Brátso</a>
+    </p>
   </footer>
 
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-  <script src="script.js"></script>
+  <script src="scripts.js"></script>
 
 </body>
 </html>
