@@ -1,25 +1,48 @@
-# 🎵 Lofi Radio Site
+🌸🌿 𝓛𝓸𝓯𝓲 𝓡𝓪𝓭𝓲𝓸 - Uma nova jornada começa... 🎧✨
 
-Uma rádio Lo-Fi minimalista feita com HTML, CSS e JavaScript. Relaxe, concentre-se e curta o som. ☁️
-
-## 🖥️ Preview
-
-<img src="assets/images/screenshot.png" alt="Preview do site" style="border-radius: 8px; max-width: 100%;" />
-
-## 🚀 Acesse Agora
-
-👉 [Clique aqui para ouvir](https://caiodjss.github.io/lofi-radio-site/)
-
-## 🛠️ Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 💡 Inspiração
-
-Feito para quem ama um bom beat para estudar, trabalhar ou apenas relaxar. 😌
+Oi, tudo bem por aí? ☁️  
+Este cantinho sonoro que você encontrou vai passar por uma reforma muito especial...  
+Estamos preparando algo ainda mais mágico, atmosférico e cheio de cor. 🌈💜
 
 ---
 
-> Desenvolvido com ❤️ por [@caiodjss](https://github.com/caiodjss)
+🌙 **O que vem por aí...**
+
+Essa rádio que nasceu com HTML, CSS e JS agora vai ganhar novos horizontes:  
+um site completo, com diferentes estações temáticas (lofi hip hop, MPB, R&B, clássico...)  
+e um player todo personalizado — daqueles que você aperta o botão de "play" e sente o mundo desacelerar. 🌧️🎶
+
+Você vai poder:
+- Explorar rádios com visuais únicos e imersivos 🎨
+- Descobrir mais sobre os artistas 🌸
+- Ouvir enquanto lê, estuda, ou apenas contempla o céu noturno... 🌌
+- E até enviar suas próprias músicas 🌱
+
+---
+
+🔧 **Tecnologias que vão dar vida a essa nova fase:**
+
+- **React.js** (para criar um frontend interativo, suave e bonito)
+- **Express + Node.js** (para cuidar do que acontece por trás dos botões)
+- **PostgreSQL** (para guardar com carinho todas as músicas e dados)
+- 🎨 Paleta de cores: **verde escuro**, **roxo**, **rosa**, **pink**, **neon**, e claro... muito **arco-íris**
+
+---
+
+🍵 **Por que tudo isso?**
+
+Porque a gente ama Lo-fi.  
+De todos os tipos.  
+Porque o mundo é corrido demais —  
+e esse é um lugarzinho só seu, pra respirar fundo e simplesmente *estar*. 🌾🌙
+
+---
+
+✨ Em breve...  
+Mais música.  
+Mais cor.  
+Mais alma. 💫
+
+Feito com 💖 por [@caiodjss](https://github.com/caiodjss)
+
+> "Existem músicas que abraçam. Esta rádio é uma delas." 🎐
