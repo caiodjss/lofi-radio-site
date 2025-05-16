@@ -1,48 +1,79 @@
-🌸🌿 𝓛𝓸𝓯𝓲 𝓡𝓪𝓭𝓲𝓸 - Uma nova jornada começa... 🎧✨
-
-Oi, tudo bem por aí? ☁️  
-Este cantinho sonoro que você encontrou vai passar por uma reforma muito especial...  
-Estamos preparando algo ainda mais mágico, atmosférico e cheio de cor. 🌈💜
+✨ Lofi Radio 🎧
 
 ---
 
-🌙 **O que vem por aí...**
+🎐 **O projeto está passando por mudanças...**
 
-Essa rádio que nasceu com HTML, CSS e JS agora vai ganhar novos horizontes:  
-um site completo, com diferentes estações temáticas (lofi hip hop, MPB, R&B, clássico...)  
-e um player todo personalizado — daqueles que você aperta o botão de "play" e sente o mundo desacelerar. 🌧️🎶
+A versão atual da rádio foi criada com HTML, CSS e JavaScript — simples, leve, aconchegante.  
+Mas agora ela vai crescer... com novas cores, novas estações, e um universo inteiro de calmaria digital.
 
-Você vai poder:
-- Explorar rádios com visuais únicos e imersivos 🎨
-- Descobrir mais sobre os artistas 🌸
-- Ouvir enquanto lê, estuda, ou apenas contempla o céu noturno... 🌌
-- E até enviar suas próprias músicas 🌱
+Se você já passou por aqui antes: obrigada por ouvir.  
+Se está chegando agora: bem-vindo à reformulação. 💜
 
 ---
 
-🔧 **Tecnologias que vão dar vida a essa nova fase:**
+🌸 **O que está por vir...**
 
-- **React.js** (para criar um frontend interativo, suave e bonito)
-- **Express + Node.js** (para cuidar do que acontece por trás dos botões)
-- **PostgreSQL** (para guardar com carinho todas as músicas e dados)
-- 🎨 Paleta de cores: **verde escuro**, **roxo**, **rosa**, **pink**, **neon**, e claro... muito **arco-íris**
+✨ Um player interativo com botões únicos — criados com carinho.  
+✨ Rádios temáticas: lofi hip hop, MPB, R&B, clássicos, meditação e mais.  
+✨ Cada estação com uma atmosfera própria: cores, visuais, sons, sensações.  
+✨ Artistas com página própria: músicas, fotos, redes, inspiração.  
+✨ Um cantinho para enviar sua própria música.  
 
----
-
-🍵 **Por que tudo isso?**
-
-Porque a gente ama Lo-fi.  
-De todos os tipos.  
-Porque o mundo é corrido demais —  
-e esse é um lugarzinho só seu, pra respirar fundo e simplesmente *estar*. 🌾🌙
+Tudo isso numa experiência que convida ao descanso, à criatividade, à presença.
 
 ---
 
-✨ Em breve...  
-Mais música.  
-Mais cor.  
-Mais alma. 💫
+🛠️ **Ferramentas dessa nova fase**
 
-Feito com 💖 por [@caiodjss](https://github.com/caiodjss)
+Nada aqui é por acaso. Cada tecnologia escolhida faz parte da sinfonia:
 
-> "Existem músicas que abraçam. Esta rádio é uma delas." 🎐
+🌼 **React.js** – a base do novo site. Com ele, cada pedacinho da rádio (botões, telas, efeitos) será um pequeno mundo, fluido, animado e responsivo.
+
+🌿 **Tailwind CSS** – para dar forma e cor. Criar um estilo suave, minimalista e muito expressivo, usando muito **arco-íris** quando o coração mandar.
+
+🌈 **Framer Motion** – movimentos suaves. Pequenos toques de vida nas transições e cliques. 
+
+🍂  “Sans nous attendre tant de saisons ont passé
+      Les feuilles dorées s'en allant mourir à terre
+      Renaîtront un jour sous un ciel radieux
+      Mais notre monde érodé restera le même
+      Et demain toi et moi serons partis”
+— Alcest – "Autre Temps"
+
+🎧 **Howler.js** – o som como protagonista. Ele cuida dos áudios, volumes e transições sem perder o ritmo.
+
+🔁 **Node.js + Express.js** – os bastidores. Aqui vivem as conexões, as requisições, os dados que viajam entre seu navegador e o universo da rádio.
+
+📝 **PostgreSQL** – um baú de memórias. Onde ficam guardadas as músicas, os artistas, os envios... cada detalhe com carinho e organização.
+
+☁️ **Firebase Storage** (ou talvez outro lugar nas nuvens) – para armazenar os sons que você envia com amor.
+
+---
+
+🍵 **Equilíbio em todas as coisas**
+
+Porque o mundo precisa de mais pausas.  
+Mais música sem pressa.  
+Mais espaços para respirar e apenas ser.  
+
+Um lugar onde você pode simplesmente colocar os fones,  
+Ficar em silêncio e deixar o som cuidar do resto.
+
+---
+
+🕊️ Em breve...
+
+Nova interface, novas cores, novas rádios.  
+
+Com amor,  
+[@caiodjss](https://github.com/caiodjss) 🌸
+
+“E acolhe o dia nascente
+O cortejo solto das formas
+Cristalizadas no céu
+Os mundos azuis
+As ondas ao avesso”
+
+— Alcest – "Voix Sereines"
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊☀
