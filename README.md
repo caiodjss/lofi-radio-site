@@ -34,17 +34,13 @@ Nada aqui é por acaso. Cada tecnologia escolhida faz parte da sinfonia:
 
 🌈 **Framer Motion** – movimentos suaves. Pequenos toques de vida nas transições e cliques. 
 
-🍂 _ “Sans nous attendre tant de saisons ont passé
-
-      Les feuilles dorées s'en allant mourir à terre
+🍂  “Sans nous attendre tant de saisons ont passé <br>
+      Les feuilles dorées s'en allant mourir à terre  <br>    
+      Renaîtront un jour sous un ciel radieux      <br>
+      Mais notre monde érodé restera le même      <br>
+      Et demain toi et moi serons partis”<br>
       
-      Renaîtront un jour sous un ciel radieux
-      
-      Mais notre monde érodé restera le même
-      
-      Et demain toi et moi serons partis”
-      
-— Alcest – "Autre Temps"_
+— Alcest – "Autre Temps"
 
 🎧 **Howler.js** – o som como protagonista. Ele cuida dos áudios, volumes e transições sem perder o ritmo.
 
@@ -74,16 +70,12 @@ Nova interface, novas cores, novas rádios.
 Com amor,  
 [@caiodjss](https://github.com/caiodjss) 🌸
 
-_“E acolhe o dia nascente
+“E acolhe o dia nascente<br>
+O cortejo solto das formas<br>
+Cristalizadas no céu<br>
+Os mundos azuis<br>
+As ondas ao avesso”<br>
 
-O cortejo solto das formas
-
-Cristalizadas no céu
-
-Os mundos azuis
-
-As ondas ao avesso”
-
-— Alcest – "Voix Sereines"_
+— Alcest – "Voix Sereines"
 
 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊☀
