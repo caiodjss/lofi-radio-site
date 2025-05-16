@@ -35,7 +35,7 @@ Nada aqui é por acaso. Cada tecnologia escolhida faz parte da sinfonia:
 🌈 **Framer Motion** – movimentos suaves. Pequenos toques de vida nas transições e cliques. 
 
 🍂  “Sans nous attendre tant de saisons ont passé <br>
-      Les feuilles dorées s'en allant mourir à terre  <br>    
+      Les feuilles dorées s'en allant mourir à terre  
       Renaîtront un jour sous un ciel radieux      <br>
       Mais notre monde érodé restera le même      <br>
       Et demain toi et moi serons partis”<br>
