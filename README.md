@@ -10,7 +10,7 @@ Se está chegando agora: bem-vindo à reformulação. 💜
 
 ---
 
-## 🌸 Visão Geral
+## Visão Geral
 
 A **Lofi Radio** é uma aplicação web onde usuários poderão:
 
@@ -24,9 +24,9 @@ A experiência convida à pausa, à criatividade, à calma — com som de qualid
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-### 🧠 Backend
+### Backend
 
 Construído com **ASP.NET Core Web API (C#)**, o backend é responsável por:
 
@@ -43,7 +43,7 @@ Construído com **ASP.NET Core Web API (C#)**, o backend é responsável por:
 
 ---
 
-### 🎧 Frontend
+### Frontend
 
 Desenvolvido com **Angular 15+**, o frontend é responsável por:
 
@@ -57,19 +57,19 @@ Desenvolvido com **Angular 15+**, o frontend é responsável por:
 
 ---
 
-## 📡 Funcionalidades previstas
+## Funcionalidades previstas
 
-* 🔊 Estações temáticas: Lofi Hip Hop, MPB, Meditação, Clássicos, R\&B etc.
-* 💾 Upload de músicas com aprovação via dashboard
-* 🎛️ Interface personalizável por estação
-* 🧑‍🎨 Artistas com página própria (bio, links, faixas)
-* 🎵 Criação e compartilhamento de playlists
-* 📈 Dashboard administrativo para análise de dados
-* 📱 Compatível com desktop e mobile
+* Estações temáticas: Lofi Hip Hop, MPB, Meditação, Clássicos, R\&B etc.
+* Upload de músicas com aprovação via dashboard
+* Interface personalizável por estação
+* Artistas com página própria (bio, links, faixas)
+* Criação e compartilhamento de playlists
+* Dashboard administrativo para análise de dados
+* Compatível com desktop e mobile
 
 ---
 
-## 🔄 Fluxos principais
+## Fluxos principais
 
 ### Upload de Música
 
@@ -91,7 +91,7 @@ Desenvolvido com **Angular 15+**, o frontend é responsável por:
 
 ---
 
-## 🌿 Desenvolvimento
+## Desenvolvimento
 
 * **Backend**: ASP.NET Core 7, Visual Studio, C#, Swagger
 * **Frontend**: Angular CLI, Visual Studio Code, Bootstrap, Angular Material
@@ -100,7 +100,7 @@ Desenvolvido com **Angular 15+**, o frontend é responsável por:
 
 ---
 
-## ✅ MVP Prioritário
+## MVP Prioritário
 
 * [ ] Sistema de login e autenticação (JWT)
 * [ ] Player com troca de estações
@@ -118,27 +118,5 @@ Desenvolvido com **Angular 15+**, o frontend é responsável por:
 
 ---
 
-## 🍵 Um lugar para respirar
-
-Porque o mundo precisa de mais pausas.
-Mais música sem pressa.
-Mais espaços para apenas ser.
-
-Coloque os fones.
-Respire.
-E deixe o som cuidar do resto.
-
----
-
 Com carinho,
-[@caiodjss](https://github.com/caiodjss) 🌸
-
----
-
-## ✨ Trecho favorito
-
-> “Sans nous attendre tant de saisons ont passé...
-> Les feuilles dorées s'en allant mourir à terre...
-> Mais notre monde érodé restera le même...
-> Et demain toi et moi serons partis.”
-> — Alcest – *Autre Temps*
+[@caiodjss](https://github.com/caiodjss) 🌊
